@@ -1,0 +1,3 @@
+# KonsolaHelloWorld
+Dawid Krawczyk
+repozytorium
